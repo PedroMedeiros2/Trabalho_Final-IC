@@ -1,1 +1,1 @@
-# Trabalho_Final-IC-
+# Trabalho Final - Tópicos Especiais Em Inteligência Computacional
